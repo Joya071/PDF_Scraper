@@ -1,0 +1,7 @@
+Feb 24 2025 08:55:37 PM - INFO: Starting PDF processing for directory: ./data
+Feb 24 2025 08:55:37 PM - INFO: Database initialized.
+Feb 24 2025 08:55:37 PM - INFO: Processing the PDF: sample.pdf
+Feb 24 2025 08:55:37 PM - INFO: Extracted text from: ./data\sample.pdf
+Feb 24 2025 08:55:37 PM - INFO: Data saved to database: sample.pdf
+Feb 24 2025 08:55:37 PM - INFO: PDF processing completed
+Feb 24 2025 08:55:37 PM - INFO: Processing complete.
