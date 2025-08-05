@@ -1,8 +1,4 @@
-Absolutely! Here's your `README.md` content fully formatted in **Markdown**, ready to copy-paste into your GitHub project:
 
----
-
-```markdown
 # 📄 PDF Scraper with Automation
 
 A Python-based tool to automate the extraction of text from PDFs in a given directory and store the content into an SQLite database for structured access and querying.
